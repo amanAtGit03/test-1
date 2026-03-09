@@ -21,7 +21,7 @@ To replicate this experiment, follow these steps in your Jenkins dashboard:
    - Click **New Item**, enter a name (e.g., `Jenkins-CI-Lab`), select **Maven project**, and click **OK**.
 2. **Source Code Management**:
    - Select **Git**.
-   - **Repository URL**: `https://github.com/amanAtGit03/jenkings-CI-test.git`
+   - **Repository URL**: `https://github.com/amanAtGit03/jenkins-CI-test.git`
    - **Branch Specifier**: Change `*/master` to `*/main` (verify your GitHub default branch).
 3. **Build Settings**:
    - Scroll to the **Build** section.
