@@ -1,2 +1,2 @@
 # test-1
-## this repo is for jenkin lab practice
+## this repo is for jenkins lab practice
